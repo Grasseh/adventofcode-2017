@@ -10,9 +10,9 @@ This projects assumes having inputs named ```input/dayXY``` at the root, where `
 Example : ```input/day03b```
 
 To run the app, you need to have Python 3 installed
-Simply run ```python main.py```, then input the desired problem number when asked 
+Simply run ```python main.py```, then input the desired problem number when asked
 
-Example : 
+Example :
 ```
 10:47 - grasseh:~/adventofcode-2017 (master) - python main.py
 Select a level
@@ -23,4 +23,8 @@ Your solution is 1234567
 
 ## Units tests
 
-TODO
+Tests are written in the solver files. They can be run using
+
+```
+python3 -m unittest discover -s solvers -p '*.py'
+```
