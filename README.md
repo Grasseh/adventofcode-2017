@@ -14,11 +14,11 @@ Simply run ```python main.py```, then input the desired problem number when aske
 
 Example :
 ```
-10:47 - grasseh:~/adventofcode-2017 (master) - python main.py
-Select a level
->03b
-You selected problem #03b.
-Your solution is 1234567
+10:47 - grasseh:~/adventofcode-2017 (master) - python3 main.py
+Welcome to Grasseh's 2017 Advent of Code
+Enter your problem number
+>00a
+The solution to problem 00a is : 21
 ```
 
 ## Units tests
