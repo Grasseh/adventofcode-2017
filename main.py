@@ -6,7 +6,7 @@ def main():
     print("Enter your problem number")
     problem_no = input(">")
     try:
-        text_file = open("inputs/day{}.txt".format(problem_no))
+        text_file = open("inputs/day{}.txt".format(problem_no[:-1]))
         content = text_file.read()
         solver = importlib.import_module("solvers.day{}".format(problem_no))
     except IOError:
