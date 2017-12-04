@@ -19,6 +19,7 @@ Welcome to Grasseh's 2017 Advent of Code
 Enter your problem number
 >00a
 The solution to problem 00a is : 21
+Execution complete in     0.0186 ms
 ```
 
 ## Units tests
