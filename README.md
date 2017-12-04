@@ -28,3 +28,8 @@ Tests are written in the solver files. They can be run using
 ```
 python3 -m unittest discover -s solvers -p '*.py'
 ```
+
+or 
+```
+bash tests
+```
