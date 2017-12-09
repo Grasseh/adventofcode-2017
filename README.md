@@ -49,7 +49,7 @@ Each problem has been ran 5 times and averaged
 |6    |29.0642         |29.3516         |
 |7    |9.4246          |9.1651          |
 |8    |9.4056          |9.3635          |
-|9    |x.xxxx          |x.xxxx          |
+|9    |1.4406          |1.3625          |
 |10   |x.xxxx          |x.xxxx          |
 |11   |x.xxxx          |x.xxxx          |
 |12   |x.xxxx          |x.xxxx          |
