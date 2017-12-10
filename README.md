@@ -37,32 +37,4 @@ bash tests
 
 ## Performance
 
-Each problem has been ran 5 times and averaged
-
-| Day | Problem a (ms) | Problem b (ms) |
-|-----|---------------:|---------------:|
-|1    |0.7355          |0.9158          |
-|2    |0.3348          |0.6555          |
-|3    |0.0496          |0.3985          |
-|4    |1.0981          |4.8254          |
-|5    |114.3783        |9526.8593       |
-|6    |29.0642         |29.3516         |
-|7    |9.4246          |9.1651          |
-|8    |9.4056          |9.3635          |
-|9    |1.4406          |1.3625          |
-|10   |x.xxxx          |x.xxxx          |
-|11   |x.xxxx          |x.xxxx          |
-|12   |x.xxxx          |x.xxxx          |
-|13   |x.xxxx          |x.xxxx          |
-|14   |x.xxxx          |x.xxxx          |
-|15   |x.xxxx          |x.xxxx          |
-|16   |x.xxxx          |x.xxxx          |
-|17   |x.xxxx          |x.xxxx          |
-|18   |x.xxxx          |x.xxxx          |
-|19   |x.xxxx          |x.xxxx          |
-|20   |x.xxxx          |x.xxxx          |
-|21   |x.xxxx          |x.xxxx          |
-|22   |x.xxxx          |x.xxxx          |
-|23   |x.xxxx          |x.xxxx          |
-|24   |x.xxxx          |x.xxxx          |
-|25   |x.xxxx          |x.xxxx          |
+Each problem has been ran 1000 times. The average can be found in this [file](/performance.md)
