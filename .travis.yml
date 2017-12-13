@@ -3,7 +3,9 @@ python :
   - "3.5"
 install :
   - pip3 install numpy
+  - pip3 install coverage
   - pip3 install codecov
 script :
   - bash tests
+  - bash coverage.sh
   - codecov
