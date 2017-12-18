@@ -20,6 +20,7 @@ def main():
             solver = importlib.import_module("solvers.day{}".format(problem_no))
         except IOError:
             print("Problem file not found(input or solver)")
+            print(problem_no)
             sys.exit(0)
         no_runs = 100
         sum_runs = 0
