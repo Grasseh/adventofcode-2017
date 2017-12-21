@@ -2,7 +2,7 @@
 import unittest
 import re
 
-def solve(fn_input, iterations=5):
+def solve(fn_input, iterations=18):
     instructions = fn_input[:-1].split("\n")
     rules = list(map(parse_line, instructions))
     grid = [2, 1, 7]
